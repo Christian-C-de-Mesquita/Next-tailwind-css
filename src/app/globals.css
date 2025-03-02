@@ -19,3 +19,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.titulo {
+  @apply text-5xl animate-pulse text-green-600 bg-zinc-800 p-2 rounded-md px-5 font-bold tracking-wider;
+}
+.nav-item {
+  @apply p-2 bg-slate-800 text-green-500 rounded-md hover:bg-green-500 flex gap-2
+  hover:text-slate-100 duration-300 font-semibold cursor-pointer w-36 items-center justify-center;
+}
