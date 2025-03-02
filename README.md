@@ -2,6 +2,10 @@
 
 npx create-next-app@latest app4
 
+#### IMG do projeto:
+
+<img src="./screen/Captura de tela 2025-03-02 171655.png" alt="">
+
 #### Tipos de estilização
 
 ```
